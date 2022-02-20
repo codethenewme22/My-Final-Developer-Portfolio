@@ -1,6 +1,9 @@
 div {
   border: 1px solid;
 }
+  body{
+    margin: 0%;
+  }
 h1 {
   /* ! This is the font family which is related tto the GOOGLE FONT  link */
   font-family: "Abril Fatface", cursive;
@@ -32,5 +35,6 @@ section {
 }
 .top-banner {
   background-image: url(./images/top-banner.png);
-  background-repeat:no-repeat;
+  background-repeat: no-repeat;
+  
 }
