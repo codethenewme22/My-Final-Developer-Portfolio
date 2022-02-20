@@ -1,6 +1,6 @@
-div {
+/* div {
   border: 1px solid;
-}
+} */
 body {
   margin: 0%;
 }
@@ -63,4 +63,17 @@ span {
   background-image: url(./images/exp-bg.png);
   background-repeat: no-repeat;
   background-position: left;
+}
+#experience {
+  margin-left: 20px;
+}
+#box1-border {
+  border-image: linear-gradient(blue cyan);
+  border-left: 10px solid;
+  border-image-slice: 1;
+}
+#box2-border {
+  border-left: 10px solid;
+  border-image: linear-gradient(rgb(255, 0, 140) cyan);
+  border-image-slice: 1;
 }
