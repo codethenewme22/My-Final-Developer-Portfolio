@@ -1,6 +1,6 @@
-/* div {
+div {
   border: 1px solid;
-} */
+}
 body {
   margin: 0%;
 }
@@ -8,13 +8,13 @@ h1 {
   /* ! This is the font family which is related tto the GOOGLE FONT  link */
   font-family: "Abril Fatface", cursive;
 }
-#cdnm {
+.cdnm {
   color: rgb(14, 77, 77);
 }
 span {
   color: rgb(14, 14, 235);
 }
-section {
+.flexible-container {
   display: flex;
   margin-bottom: 75px;
 }
@@ -43,7 +43,16 @@ section {
   background-image: url(./images/keepz-moving.png);
   background-repeat: no-repeat;
   background-position: right;
-  
 }
 
 /* ! Experience Section */
+.box {
+  margin: 5%;
+}
+/* ! Applying BOX SHADOW */
+.box-item {
+  padding: 30px;
+
+  margin: 60px;
+  box-shadow: 10px 10px 50px gray;
+}
