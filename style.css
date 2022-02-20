@@ -34,6 +34,7 @@ section {
   padding: 10px 40px;
   border-radius: 5px;
 }
+/* ! Bottom Banner */
 .top-banner {
   background-image: url(./images/top-banner.png);
   background-repeat: no-repeat;
@@ -44,3 +45,5 @@ section {
   background-position: right;
   
 }
+
+/* ! Experience Section */
