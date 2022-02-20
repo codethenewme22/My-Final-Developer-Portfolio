@@ -25,6 +25,7 @@ span {
 .basic-width img {
   width: 60%;
   margin-top: 20%;
+  margin-left: 40px;
 }
 .hire-me {
   text-decoration: none;
