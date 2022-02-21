@@ -42,7 +42,7 @@ span {
   background-repeat: no-repeat;
 }
 .bottom-banner {
-  background-image: url(./images/keepz-moving.png);
+  background-image: url(./images/1stBackground.png);
   background-repeat: no-repeat;
   background-position: right;
 }
@@ -60,7 +60,7 @@ span {
   box-shadow: 10px 10px 50px gray;
 }
 .experience-container {
-  background-image: url(./images/exp-bg.png);
+  background-image: url(./images/2ndBackground.png);
   background-repeat: no-repeat;
   background-position: left;
 }
