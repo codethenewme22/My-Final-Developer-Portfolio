@@ -59,7 +59,7 @@ span {
   margin: 60px;
   box-shadow: 10px 10px 50px gray;
 }
-.experience {
+.experience-container {
   background-image: url(./images/exp-bg.png);
   background-repeat: no-repeat;
   background-position: left;
@@ -68,12 +68,16 @@ span {
   margin-left: 20px;
 }
 #box1-border {
-  border-image: linear-gradient(blue cyan);
+  border-image: linear-gradient(salmon, orange);
+
   border-left: 10px solid;
   border-image-slice: 1;
 }
 #box2-border {
   border-left: 10px solid;
-  border-image: linear-gradient(rgb(255, 0, 140) cyan);
+  border-image: linear-gradient(blue, cyan);
   border-image-slice: 1;
+}
+footer {
+  text-align: center;
 }
